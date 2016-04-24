@@ -1,0 +1,7 @@
+name: AntiDoubleChest
+main: Main\AntiDoubleChest
+version: 1.0
+api: [1.0.0,2.0.0,1.14.0]
+load: STARTUP
+author: Dyedamine
+description: Ban Those double chest!
